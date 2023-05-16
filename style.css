@@ -1,0 +1,28 @@
+div {
+    display: inline-block;
+    border: 1px solid black;
+    width: 200px;
+    height: 200px;
+    columns: 6;
+}
+
+#borda-sup-esq, #borda-sup-dir, #borda-inf-esq, #borda-inf-dir{
+    border: 2px solid black;
+}
+
+
+.div-vermelha {
+    background-color: red;
+}
+
+.div-azul {
+    background-color: rgb(0, 176, 240);
+}
+
+.div-verde {
+    background-color: rgb(0, 176, 80);
+}
+
+.div-amarela{
+    background-color: rgb(255, 255, 0);
+}
